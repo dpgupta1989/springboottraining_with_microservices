@@ -1,0 +1,7 @@
+com\example\springboot\training\api\ItemRepository.class
+com\example\springboot\training\HelloWorldController.class
+com\example\springboot\training\TrainingApplication.class
+com\example\springboot\training\api\Item.class
+com\example\springboot\training\api\ItemController.class
+com\example\springboot\training\swagger\SwaggerConfig.class
+com\example\springboot\training\api\ItemService.class
