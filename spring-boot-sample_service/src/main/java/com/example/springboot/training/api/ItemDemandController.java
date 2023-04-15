@@ -18,6 +18,7 @@ public class ItemDemandController {
 	}
 
 //	http://localhost:9001/demand/addDemand
+// This is an example of sample PUT method
 	@PostMapping("/addDemand")
 	public String addItemDemand(@RequestBody Item item) {
 		return "Item Demand Details Added";
