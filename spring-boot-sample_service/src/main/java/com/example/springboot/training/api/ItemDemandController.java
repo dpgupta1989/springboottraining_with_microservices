@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class ItemDemandController {
 
 //	http://localhost:9001/demand/getDemand
+// This is an example of sample get method
 	@GetMapping("/getDemand")
 	public String getAllDemand() {
 		return "Item Demand Fetched";
